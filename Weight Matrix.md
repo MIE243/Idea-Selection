@@ -48,15 +48,15 @@
 
 |                                                                | Weight | Score | Why |
 | -------------------------------------------------------------- | ------ | ----- | --- |
-| **Clarity of Differential Demonstration**                      | 0.20   | 3     | Students can turn the crank and apply resistance to a suspended wheel to create different output speeds, while observing the differential through the transparent cover. However, the fixed model does not travel through an actual turn, so it cannot show the complete relationship between wheel motion and a curved path. |
-| **Clarity of Transfer Case Demonstration**                     | 0.20   | 3     | The selector and transparent housing are intended to show changes in the drivetrain connection between 2WD and 4WD. Students can observe which wheels are driven, but the stationary model cannot demonstrate the specified full-time and part-time 4WD comparison during an actual turn. The modes and their operation still need to be verified. |
-| **Lab usability (setup + test time, all 4 students involved)** | 0.15   | 5     | The model is intended to be used as a preassembled tabletop unit, without setting up a road course, belt bench or electrical supply. Four students can gather around it and take turns operating the crank, changing modes, observing the drivetrain and recording results. Setup and testing times still need to be checked in a four-student trial. |
-| **Safety**                                                     | 0.14   | 5     | The hand-cranked concept has no motor-driven belts or rollers, and transparent covers are intended to prevent access to gears, shafts and pinch points while keeping the drivetrain visible. The suspended wheels remain accessible for the demonstration, so safe wheel restraint and guarding must be checked before use. |
-| **Serviceability (Ease of repair)**                            | 0.10   | 4     | The mechanical design does not require motors, controllers or electrical wiring to be maintained or troubleshot. Components are intended to be accessible and replaceable, although gear and shaft alignment and access to individual wear parts must still be checked. |
-| **Ease of storage/transport**<br>                              | 0.08   | 5     | The stationary tabletop model does not require separate road modules, a ramp or a belt bench, so fewer large components need to be stored or transported. Its actual assembled and packed dimensions and weight must be checked against the storage requirements. |
-| **Cost margin below $300**                                     | 0.06   | 3     | The use of 3D-printed parts and manual input avoids the cost of motors, controllers and a separate road course or belt bench. However, gears, shafts, fasteners, transparent covers and other hardware still need to be priced; a complete bill of materials is required to confirm the margin below CAD $300. |
-| **Easy to manufacture**                                        | 0.05   | 3     | Many custom components are intended to be 3D printed, and the design avoids building a road course or motorised belt bench. However, the drivetrain still requires gears, shafts and housings to be manufactured and assembled with suitable alignment and tolerances. |
-| **Future Proof (Ease of future additions)**                    | 0.02   | 2     | The original concept is fixed to a tabletop base and has no steering or road course, limiting the conditions it can demonstrate. Adding mobile testing or a turning demonstration would require substantial changes to the base, vehicle and drivetrain layout. |
+| **Clarity of Differential Demonstration**                      | 0.20   | 3     |     |
+| **Clarity of Transfer Case Demonstration**                     | 0.20   | 3     |     |
+| **Lab usability (setup + test time, all 4 students involved)** | 0.15   | 5     |     |
+| **Safety**                                                     | 0.14   | 5     |     |
+| **Serviceability (Ease of repair)**                            | 0.10   | 4     |     |
+| **Ease of storage/transport**<br>                              | 0.08   | 5     |     |
+| **Cost margin below $300**                                     | 0.06   | 3     |     |
+| **Easy to manufacture**                                        | 0.05   | 3     |     |
+| **Future Proof (Ease of future additions)**                    | 0.02   | 2     |     |
 | **Total**                                                      | 1      | 3.82  |     |
 
 |     |     |
